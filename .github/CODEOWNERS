@@ -1,0 +1,34 @@
+# EWF Tools Code Ownership and Review Requirements
+#
+# This file defines who is responsible for different parts of the repository
+# and who should review changes to ensure forensic compliance and tool integrity.
+
+# Global ownership - all files require review by the primary maintainer
+* @hoyt-harness
+
+# Critical forensic documentation requires expert review
+METHODOLOGY.md @hoyt-harness
+VALIDATION.md @hoyt-harness
+SECURITY.md @hoyt-harness
+.github/SECURITY.md @hoyt-harness
+
+# Legal and compliance documentation
+COPYING* @hoyt-harness
+LICENSE* @hoyt-harness
+
+# GitHub configuration and security policies
+.github/ @hoyt-harness
+
+# Tool binaries and dependencies - require careful validation
+ewf-tools/ @hoyt-harness
+
+# Usage documentation - ensure accuracy for forensic procedures
+USING/ @hoyt-harness
+
+# Repository configuration
+.gitignore @hoyt-harness
+README.md @hoyt-harness
+
+# Note: For forensic evidence tools, all changes should undergo
+# expert review to ensure continued Daubert Standard compliance
+# and evidence integrity protection.
