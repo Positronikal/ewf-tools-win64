@@ -68,18 +68,6 @@ pdb/
 *.swo
 *~
 
-# Generated Doxyfiles (unless they're templates)
-#docs/
-#html/
-#latex/
-#xml/
-#rtf/
-#man/
-#docbook/
-*.tmp
-#Doxyfile
-!templates/*.doxyfile
-
 # Example project outputs
 examples/*/docs/
 examples/*/html/
