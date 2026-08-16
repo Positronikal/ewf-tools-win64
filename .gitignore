@@ -74,6 +74,9 @@ examples/*/html/
 examples/*/latex/
 examples/*/xml/
 
+# Temporary files
+*.tmp
+
 # Log files
 *.log
 warnings.log
