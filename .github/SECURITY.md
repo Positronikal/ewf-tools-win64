@@ -28,12 +28,12 @@
 ## Reporting Security Vulnerabilities
 
 ### 🚨 For Critical Issues Affecting Evidence Integrity
-**Email**: hoyt.harness@gmail.com  
+**Email**: admin@positronikal.tech  
 **Subject**: [CRITICAL] EWF Tools Security Issue  
 **Response Time**: 24-48 hours
 
 ### For General Security Issues
-**Email**: hoyt.harness@gmail.com  
+**Email**: admin@positronikal.tech  
 **Subject**: [SECURITY] EWF Tools Issue  
 **Response Time**: 3-5 business days
 
