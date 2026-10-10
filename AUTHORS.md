@@ -4,7 +4,7 @@
 
 **Hoyt Harness**  
 *Repository Maintainer, Expert Witness Contact*  
-- Email: hoyt.harness@gmail.com
+- Email: admin@positronikal.tech
 - Role: Primary maintainer, forensic expert contact
 - Qualifications:
   - 20+ years experience in cyber investigation and digital forensics
@@ -92,7 +92,7 @@ Upon request and with appropriate legal context, professional references are ava
 ### Expert Witness Services
 For legal discovery, Daubert hearings, or expert testimony needs:
 
-**Primary Contact**: Hoyt Harness (hoyt.harness@gmail.com)
+**Primary Contact**: Hoyt Harness (admin@positronikal.tech)
 - Available for technical consultation
 - Prepared for expert witness testimony
 - Comprehensive documentation and validation support
@@ -126,4 +126,4 @@ The forensic compliance framework is developed in consultation with legal expert
 
 ---
 
-**For questions about authorship, contributions, or expert witness services, contact hoyt.harness@gmail.com**
+**For questions about authorship, contributions, or expert witness services, contact admin@positronikal.tech**
